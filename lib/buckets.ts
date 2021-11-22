@@ -1,3 +1,1 @@
-export const HOME_BUCKETS = ['a', 'b', 'c'] as const
-
-export const MARKETING_BUCKETS = ['original', 'b', 'c'] as const
+export const RECOMMEND_BUCKETS = ["a", "b"] as const;
